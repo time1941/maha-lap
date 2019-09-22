@@ -3,4 +3,5 @@ class MahaLap {
         return 2;
     }
 }
-module.export = MahaLap;
+
+module.exports = MahaLap;
